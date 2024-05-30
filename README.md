@@ -1,6 +1,6 @@
 # GameHub360
 
-![GameHub360 Logo](path/to/your/logo.png)
+![bienvenida.jpg)
 
 ## 🎮 Bienvenido a GameHub360 🎮
 
