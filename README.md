@@ -1,70 +1,51 @@
-# 🎮 ¡Bienvenido a GameHub360! 🎮
+# GameHub360
 
-![GameHub360](https://yourlogo.url/logo.png)
+![GameHub360 Logo](path/to/your/logo.png)
 
-## Tu plataforma definitiva para explorar y gestionar videojuegos
+## 🎮 Bienvenido a GameHub360 🎮
 
----
+GameHub360 es tu plataforma definitiva para explorar, gestionar y compartir videojuegos. Nuestra misión es brindarte una experiencia personalizada e integral que te permita disfrutar al máximo de tus juegos favoritos.
 
-## 🚀 Características
-
-- **Explora, gestiona y comparte videojuegos:** Una plataforma completa para todas tus necesidades de videojuegos.
-- **Inicio de sesión seguro:** Disfruta de una experiencia de inicio de sesión segura con Firebase Authentication.
-- **Amplia biblioteca de juegos:** Accede a una vasta colección de juegos con información detallada obtenida de la API.
-- **Gestión personalizada de juegos:** Gestiona tus juegos con facilidad y adapta la experiencia a tus preferencias.
-- **Búsqueda avanzada:** Encuentra tus juegos favoritos rápidamente con nuestra funcionalidad de búsqueda avanzada.
-- **Experiencia personalizable:** Personaliza tu interfaz y configuración para que coincidan con tu estilo de juego.
-- **Opción de inicio de sesión anónimo:** Comienza a explorar sin una cuenta y guarda tus datos localmente.
-- **Filtrado de juegos:** Filtra juegos por categorías, plataformas y otros criterios relevantes.
+![GameHub360 Animation](path/to/your/animation.gif)
 
 ---
 
-## 🕹️ Comenzar
+## 🚀 Características Principales
 
-1. **Clona el repositorio:**
-    ```bash
-    git clone https://github.com/yourusername/GameHub360.git
-    ```
+1. **Exploración Completa de Videojuegos**: Accede a una amplia biblioteca de juegos con detalles completos.
+2. **Inicio de Sesión Seguro**: Utiliza Firebase Authentication para un inicio de sesión seguro y confiable.
+3. **Gestión Personalizada**: Personaliza y gestiona tus videojuegos favoritos.
+4. **Buscador Avanzado**: Encuentra fácilmente juegos por nombre, género y otros criterios relevantes.
+5. **Opciones de Personalización**: Adapta la experiencia a tus preferencias individuales.
+6. **Inicio de Sesión Anónimo**: Guarda datos localmente con la opción de inicio de sesión anónimo.
+7. **Filtros de Juegos**: Filtra juegos por categorías, plataformas y más.
 
-2. **Navega al directorio del proyecto:**
-    ```bash
-    cd GameHub360
-    ```
+## 📲 Tecnologías Utilizadas
 
-3. **Instala las dependencias:**
-    ```bash
-    npm install
-    ```
+- **Firebase**: Para autenticación, almacenamiento en la nube y bases de datos en tiempo real.
+- **Room Database**: Para almacenamiento local de datos.
+- **RAWG.IO API**: Para obtener datos detallados sobre videojuegos.
+- **Data Store**: Para gestionar preferencias del usuario.
 
-4. **Ejecuta la aplicación:**
-    ```bash
-    npm start
-    ```
+## 📚 Documentación
 
----
+### Arquitectura
 
-## 🌟 Animaciones y Visuales
+- **MVVM (Model-View-ViewModel)**: Estructura que separa la lógica de negocio de la interfaz de usuario para una mejor gestión del código y mantenimiento.
 
-![Bienvenido a GameHub360](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
+### Firebase
 
-Para incluir la animación de bienvenida, añade el siguiente CSS a tu proyecto:
+- **Authentication**: Soporte para correo y Google, además de inicio de sesión anónimo.
+- **Storage**: Almacenamiento seguro de archivos en la nube.
+- **Firestore y Realtime Database**: Sincronización en tiempo real de datos.
 
-```css
-@keyframes slideIn {
-  from {
-    transform: translateX(-100%);
-  }
-  to {
-    transform: translateX(0);
-  }
-}
+### Bases de Datos Locales
 
-.welcome-message {
-  animation: slideIn 2s ease-out;
-  font-size: 2em;
-  color: #ffffff;
-  background: linear-gradient(90deg, #ff8c00, #e52e71);
-  padding: 10px;
-  border-radius: 10px;
-  text-align: center;
-}
+- **Room**: Manejo eficiente de datos sin conexión.
+- **Data Store**: Almacenamiento seguro de preferencias del usuario.
+
+## 👨‍💻 Instalación y Configuración
+
+1. **Clona el repositorio**:
+   ```bash
+   git clone https://github.com/tu-usuario/GameHub360.git
