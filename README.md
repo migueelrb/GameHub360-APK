@@ -46,6 +46,6 @@ GameHub360 es tu plataforma definitiva para explorar, gestionar y compartir vide
 
 ## 👨‍💻 Instalación y Configuración
 
-1. **Clona el repositorio**:
+1. **Instala el APK**:
    ```bash
-   git clone https://github.com/tu-usuario/GameHub360.git
+   GameHub360.apk
