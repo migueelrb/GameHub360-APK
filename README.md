@@ -1,10 +1,10 @@
 # GameHub360
 
-![GameHub360-APK/bienvenida.jpg)
+![Bienvenida](GameHub360-APK/bienvenida.jpg)
 
 ## 🎮 Bienvenido a GameHub360 🎮
 
-GameHub360 es tu plataforma definitiva para explorar, gestionar y compartir videojuegos. Este proyecto ha sido desarrollado individualmente como proyecto final del grado superior de Desarrollo de Aplicaciones Multiplataforma
+GameHub360 es tu plataforma definitiva para explorar, gestionar y compartir videojuegos. Este proyecto ha sido desarrollado individualmente como proyecto final del grado superior de Desarrollo de Aplicaciones Multiplataforma.
 
 ![GameHub360 Animation](path/to/your/animation.gif)
 
