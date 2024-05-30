@@ -1,6 +1,6 @@
 # GameHub360
 
-![bienvenida.jpg)
+![GameHub360-APK/bienvenida.jpg)
 
 ## 🎮 Bienvenido a GameHub360 🎮
 
