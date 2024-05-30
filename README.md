@@ -1,54 +1,55 @@
-# 🎮 Welcome to GameHub360! 🎮
+# 🎮 ¡Bienvenido a GameHub360! 🎮
 
 ![GameHub360](https://yourlogo.url/logo.png)
 
-## Your Ultimate Video Game Exploration and Management Platform
+## Tu plataforma definitiva para explorar y gestionar videojuegos
 
 ---
 
-## 🚀 Features
+## 🚀 Características
 
-- **Explore, Manage, and Share Video Games:** A comprehensive platform for all your gaming needs.
-- **Secure Login:** Enjoy a safe and secure login experience with Firebase Authentication.
-- **Extensive Game Library:** Access a vast collection of games with detailed information fetched from the API.
-- **Personalized Game Management:** Manage your games with ease and tailor the experience to your preferences.
-- **Advanced Search:** Find your favorite games quickly with our advanced search functionality.
-- **Customizable Experience:** Personalize your interface and settings to match your gaming style.
-- **Anonymous Login Option:** Start exploring without an account and save your data locally.
-- **Game Filtering:** Filter games by categories, platforms, and other relevant criteria.
+- **Explora, gestiona y comparte videojuegos:** Una plataforma completa para todas tus necesidades de videojuegos.
+- **Inicio de sesión seguro:** Disfruta de una experiencia de inicio de sesión segura con Firebase Authentication.
+- **Amplia biblioteca de juegos:** Accede a una vasta colección de juegos con información detallada obtenida de la API.
+- **Gestión personalizada de juegos:** Gestiona tus juegos con facilidad y adapta la experiencia a tus preferencias.
+- **Búsqueda avanzada:** Encuentra tus juegos favoritos rápidamente con nuestra funcionalidad de búsqueda avanzada.
+- **Experiencia personalizable:** Personaliza tu interfaz y configuración para que coincidan con tu estilo de juego.
+- **Opción de inicio de sesión anónimo:** Comienza a explorar sin una cuenta y guarda tus datos localmente.
+- **Filtrado de juegos:** Filtra juegos por categorías, plataformas y otros criterios relevantes.
 
 ---
 
-## 🕹️ Get Started
+## 🕹️ Comenzar
 
-1. **Clone the Repository:**
+1. **Clona el repositorio:**
     ```bash
     git clone https://github.com/yourusername/GameHub360.git
     ```
 
-2. **Navigate to the Project Directory:**
+2. **Navega al directorio del proyecto:**
     ```bash
     cd GameHub360
     ```
 
-3. **Install Dependencies:**
+3. **Instala las dependencias:**
     ```bash
     npm install
     ```
 
-4. **Run the Application:**
+4. **Ejecuta la aplicación:**
     ```bash
     npm start
     ```
 
 ---
 
-## 🌟 Animations and Visuals
+## 🌟 Animaciones y Visuales
 
-![Welcome to GameHub360](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
+![Bienvenido a GameHub360](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
+
+Para incluir la animación de bienvenida, añade el siguiente CSS a tu proyecto:
 
 ```css
-/* Include this CSS in your project for awesome animations */
 @keyframes slideIn {
   from {
     transform: translateX(-100%);
