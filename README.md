@@ -4,7 +4,7 @@
 
 ## 🎮 Bienvenido a GameHub360 🎮
 
-GameHub360 es tu plataforma definitiva para explorar, gestionar y compartir videojuegos. Nuestra misión es brindarte una experiencia personalizada e integral que te permita disfrutar al máximo de tus juegos favoritos.
+GameHub360 es tu plataforma definitiva para explorar, gestionar y compartir videojuegos. Este proyecto ha sido desarrollado individualmente como proyecto final del grado superior de Desarrollo de Aplicaciones Multiplataforma
 
 ![GameHub360 Animation](path/to/your/animation.gif)
 
