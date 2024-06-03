@@ -65,32 +65,4 @@ Si deseas obtener el código del proyecto, por favor, ponte en contacto con el d
 
 ---
 
-## 🖼 Imágenes del Juego
-
-### 🔍 Buscador
-
-![Buscador](https://github.com/migueelrb/GameHub360-APK/blob/dac2209681b82dc8d5d792c6e3ecc9b11736f0e3/buscador.png)
-
-### 📋 Detalles del Juego
-
-![Detalles del Juego](https://github.com/migueelrb/GameHub360-APK/blob/dac2209681b82dc8d5d792c6e3ecc9b11736f0e3/detalles_juego.png)
-
-### ⭐ Fragmento Favorito
-
-![Fragmento Favorito](https://github.com/migueelrb/GameHub360-APK/blob/dac2209681b82dc8d5d792c6e3ecc9b11736f0e3/fragmento_favorito.png)
-
-### 🔐 Fragmento Login
-
-![Fragmento Login](https://github.com/migueelrb/GameHub360-APK/blob/dac2209681b82dc8d5d792c6e3ecc9b11736f0e3/fragmento_login.png)
-
-### 👤 Fragmento Usuario
-
-![Fragmento Usuario](https://github.com/migueelrb/GameHub360-APK/blob/dac2209681b82dc8d5d792c6e3ecc9b11736f0e3/fragmento_usuario.png)
-
-### 📚 Lista de Juegos
-
-![Lista de Juegos](https://github.com/migueelrb/GameHub360-APK/blob/dac2209681b82dc8d5d792c6e3ecc9b11736f0e3/lista_juegos.png)
-
----
-
 Gracias por visitar GameHub360! Disfruta de la experiencia y no dudes en contactarnos para cualquier consulta o sugerencia.
