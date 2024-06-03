@@ -73,23 +73,23 @@ Si deseas obtener el código del proyecto, por favor, ponte en contacto con el d
 
 ### 📋 Detalles del Juego
 
-![Detalles del Juego](https://github.com/migueelrb/GameHub360-APK/blob/dac2209681b82dc8d5d792c6e3ecc9b11736f0e3/detalles_juego.png)
+![Detalles del Juego](https://github.com/migueelrb/GameHub360-APK/blob/dac2209681b82dc8d5d792c6e3ecc9b11736f0e3/detalle.png)
 
 ### ⭐ Fragmento Favorito
 
-![Fragmento Favorito](https://github.com/migueelrb/GameHub360-APK/blob/dac2209681b82dc8d5d792c6e3ecc9b11736f0e3/fragmento_favorito.png)
+![Fragmento Favorito](https://github.com/migueelrb/GameHub360-APK/blob/dac2209681b82dc8d5d792c6e3ecc9b11736f0e3/favorito.png)
 
 ### 🔐 Fragmento Login
 
-![Fragmento Login](https://github.com/migueelrb/GameHub360-APK/blob/dac2209681b82dc8d5d792c6e3ecc9b11736f0e3/fragmento_login.png)
+![Fragmento Login](https://github.com/migueelrb/GameHub360-APK/blob/dac2209681b82dc8d5d792c6e3ecc9b11736f0e3/login.png)
 
 ### 👤 Fragmento Usuario
 
-![Fragmento Usuario](https://github.com/migueelrb/GameHub360-APK/blob/dac2209681b82dc8d5d792c6e3ecc9b11736f0e3/fragmento_usuario.png)
+![Fragmento Usuario](https://github.com/migueelrb/GameHub360-APK/blob/dac2209681b82dc8d5d792c6e3ecc9b11736f0e3/user.png)
 
 ### 📚 Lista de Juegos
 
-![Lista de Juegos](https://github.com/migueelrb/GameHub360-APK/blob/dac2209681b82dc8d5d792c6e3ecc9b11736f0e3/lista_juegos.png)
+![Lista de Juegos](https://github.com/migueelrb/GameHub360-APK/blob/dac2209681b82dc8d5d792c6e3ecc9b11736f0e3/lista.png)
 
 ---
 
