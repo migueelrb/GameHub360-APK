@@ -46,6 +46,17 @@ GameHub360 es tu plataforma definitiva para explorar, gestionar y compartir vide
 
 ---
 
+#### Capturas de Pantalla
+
+Aquí puedes disfrutar de algunas capturas de pantalla de la aplicación GameHub360:
+
+![Buscador](https://github.com/migueelrb/GameHub360-APK/blob/dac2209681b82dc8d5d792c6e3ecc9b11736f0e3/buscador.png)
+![Detalle](https://github.com/migueelrb/GameHub360-APK/blob/dac2209681b82dc8d5d792c6e3ecc9b11736f0e3/detalle.png)
+![Favorito](https://github.com/migueelrb/GameHub360-APK/blob/dac2209681b82dc8d5d792c6e3ecc9b11736f0e3/favorito.png)
+![Lista](https://github.com/migueelrb/GameHub360-APK/blob/dac2209681b82dc8d5d792c6e3ecc9b11736f0e3/lista.png)
+![Login](https://github.com/migueelrb/GameHub360-APK/blob/dac2209681b82dc8d5d792c6e3ecc9b11736f0e3/login.png)
+![Usuario](https://github.com/migueelrb/GameHub360-APK/blob/dac2209681b82dc8d5d792c6e3ecc9b11736f0e3/user.png)
+
 ## 👨‍💻 Instalación y Configuración
 
 1. **Instala el APK**:
