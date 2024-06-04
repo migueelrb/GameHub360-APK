@@ -50,12 +50,17 @@ GameHub360 es tu plataforma definitiva para explorar, gestionar y compartir vide
 
 Aquí puedes disfrutar de algunas capturas de pantalla de la aplicación GameHub360:
 
-![Buscador](https://github.com/migueelrb/GameHub360-APK/blob/dac2209681b82dc8d5d792c6e3ecc9b11736f0e3/buscador.png)
-![Detalle](https://github.com/migueelrb/GameHub360-APK/blob/dac2209681b82dc8d5d792c6e3ecc9b11736f0e3/detalle.png)
-![Favorito](https://github.com/migueelrb/GameHub360-APK/blob/dac2209681b82dc8d5d792c6e3ecc9b11736f0e3/favorito.png)
-![Lista](https://github.com/migueelrb/GameHub360-APK/blob/dac2209681b82dc8d5d792c6e3ecc9b11736f0e3/lista.png)
-![Login](https://github.com/migueelrb/GameHub360-APK/blob/dac2209681b82dc8d5d792c6e3ecc9b11736f0e3/login.png)
-![Usuario](https://github.com/migueelrb/GameHub360-APK/blob/dac2209681b82dc8d5d792c6e3ecc9b11736f0e3/user.png)
+<div style="display:flex;justify-content:center;align-items:center;">
+    <img src="https://github.com/migueelrb/GameHub360-APK/blob/cf881ce037b658b22453789b524dda47e23777d0/buscador.png" width="200" style="margin:0 10px; padding-right: 10px; border-right: 1px solid #ccc;">
+    <img src="https://github.com/migueelrb/GameHub360-APK/blob/cf881ce037b658b22453789b524dda47e23777d0/detalle.png" width="200" style="margin:0 10px; padding-right: 10px; border-right: 1px solid #ccc;">
+    <img src="https://github.com/migueelrb/GameHub360-APK/blob/cf881ce037b658b22453789b524dda47e23777d0/favorito.png" width="200">
+</div>
+
+<div style="display:flex;justify-content:center;align-items:center;margin-top:10px;">
+    <img src="https://github.com/migueelrb/GameHub360-APK/blob/cf881ce037b658b22453789b524dda47e23777d0/lista.png" width="200" style="margin:0 10px; padding-right: 10px; border-right: 1px solid #ccc;">
+    <img src="https://github.com/migueelrb/GameHub360-APK/blob/cf881ce037b658b22453789b524dda47e23777d0/login.png" width="200" style="margin:0 10px; padding-right: 10px; border-right: 1px solid #ccc;">
+    <img src="https://github.com/migueelrb/GameHub360-APK/blob/cf881ce037b658b22453789b524dda47e23777d0/user.png" width="200">
+</div>
 
 ## 👨‍💻 Instalación y Configuración
 
