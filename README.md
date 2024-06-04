@@ -81,4 +81,4 @@ Si deseas obtener el código del proyecto, por favor, ponte en contacto con el d
 
 ---
 
-Gracias por visitar GameHub360! Disfruta de la experiencia y no dudes en contactarnos para cualquier consulta o sugerencia.
+Gracias por visitar GameHub360!! Disfruta de la experiencia y no dudes en contactarnos para cualquier consulta o sugerencia.
