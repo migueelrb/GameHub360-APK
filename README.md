@@ -78,7 +78,7 @@ Si deseas obtener el código del proyecto, por favor, ponte en contacto con el d
 
 ---
 
-![Bienvenida](imagenes/bienvenida.jpg)
+![Bienvenida](bienvenida.jpg)
 
 ---
 
